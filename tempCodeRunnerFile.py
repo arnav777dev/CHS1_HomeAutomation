@@ -1,0 +1,1 @@
+        results = hands.process(image)
